@@ -1,3 +1,4 @@
+# this the code implemented to finish the problem in HW-1 
 import csv
 import numpy as np
 
